@@ -4,4 +4,4 @@ function arrayMultiply(array) {
 }
 
 myArray = [1, 3, 4];
-arrayMultiply(myArray)
+console.log(arrayMultiply(myArray));
